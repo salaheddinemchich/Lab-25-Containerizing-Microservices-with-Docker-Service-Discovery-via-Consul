@@ -41,12 +41,14 @@ This project demonstrates a microservices architecture using Spring Boot, Docker
 ## Access Points
 
 *   **Consul Dashboard**: [http://localhost:8500](http://localhost:8500)
-![alt text](image-1.png)
+
 *   **phpMyAdmin**: [http://localhost:8083](http://localhost:8083) (User: `root`, Password: `root`)
-![alt text](image-2.png)
+
 *   **Gateway API**: [http://localhost:8888](http://localhost:8888)
 *   **Client Service**: [http://localhost:8088](http://localhost:8088)
 *   **Voiture Service**: [http://localhost:8089](http://localhost:8089)
+<img width="1804" height="788" alt="image-1" src="https://github.com/user-attachments/assets/c792deee-96a6-4361-8aa6-8d7a2a39a495" />
+<img width="1800" height="888" alt="image-2" src="https://github.com/user-attachments/assets/529341c0-fa20-47a6-b5a2-59d3c8eda22f" />
 
 ## Troubleshooting
 
